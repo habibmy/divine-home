@@ -46,7 +46,7 @@ class Header extends HTMLElement {
         </ul>
       </div>
       <div class="navbar-end">
-        <a class="btn">Get started</a>
+        <a class="btn" href="https://api.whatsapp.com/send/?phone=919279544276&text&type=phone_number&app_absent=0">Get started</a>
       </div>
     </div>
       </header>
