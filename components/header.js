@@ -30,8 +30,8 @@ class Header extends HTMLElement {
             tabindex="0"
             class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52"
           >
-            <li><a href="/about.html">About Us</a></li>
-            <li><a href="/contact.html">Contact Us</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
           </ul>
         </div>
         <!-- <a class="btn btn-ghost normal-case text-xl">daisyUI</a> -->
@@ -41,8 +41,8 @@ class Header extends HTMLElement {
       </div>
       <div class="navbar-center hidden lg:flex">
         <ul class="menu menu-horizontal px-1">
-          <li><a href="/about.html">About Us</a></li>
-          <li><a href="/contact.html">Conatct Us</a></li>
+          <li><a href="about.html">About Us</a></li>
+          <li><a href="contact.html">Conatct Us</a></li>
         </ul>
       </div>
       <div class="navbar-end">
